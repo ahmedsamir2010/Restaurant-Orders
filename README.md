@@ -21,7 +21,7 @@ Analyze order data to identify the most and least popular menu items and types o
 ### Installation Steps
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/us-baby-names-analysis.git
+git clone https://github.com/ahmedsamir2010/Restaurant-Orders.git
 ```
 
 2. Open SQL Server and create a new database RestaurantDB
