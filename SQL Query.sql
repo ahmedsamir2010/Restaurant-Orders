@@ -25,9 +25,7 @@ SELECT TOP 1 *, 'low' as priceval FROM menu_items
 WHERE category = 'Italian'
 ORDER BY price
 ) as mi
-
 UNION ALL
-
 select * from (
 SELECT TOP 1 *, 'hight' as priceval  FROM menu_items as mi
 WHERE category = 'Italian'
